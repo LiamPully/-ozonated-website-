@@ -1,0 +1,6 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1600' height='1000' viewBox='0 0 1600 1000' fill='none'>
+  <rect width='1600' height='1000' fill='#F6FCFB'/>
+  <rect x='220' y='220' width='1160' height='560' rx='56' fill='#E6F6F3'/>
+  <path d='M350 640C350 540 430 460 530 460H1070C1170 460 1250 540 1250 640V700H350V640Z' fill='#84D6CA'/>
+  <text x='500' y='560' fill='#195F58' font-family='Georgia,serif' font-size='62'>Massage & Wellness</text>
+</svg>

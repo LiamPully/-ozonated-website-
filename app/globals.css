@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Warm Monochrome Palette */
+  --canvas: #fafaf9;
+  --surface: #ffffff;
+  --surface-elevated: #f5f5f4;
+
+  /* Text Colors */
+  --text-primary: #1c1917;
+  --text-secondary: #78716c;
+  --text-muted: #a8a29e;
+
+  /* Structural */
+  --border: #e7e5e4;
+  --border-light: rgba(0, 0, 0, 0.06);
+
+  /* Accent - Desaturated Teal */
+  --accent: #0d9488;
+  --accent-light: #f0fdfa;
+  --accent-muted: #5eead4;
+
+  /* Animation Timing */
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-spring: cubic-bezier(0.32, 0.72, 0, 1);
+  --duration-fast: 200ms;
+  --duration-normal: 400ms;
+  --duration-slow: 800ms;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    background: var(--canvas);
+    color: var(--text-primary);
+    font-family: 'Inter', ui-sans-serif, system-ui, sans-serif;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  /* Editorial Typography */
+  h1, h2, h3, h4 {
+    font-family: 'Inter', ui-sans-serif, system-ui, sans-serif;
+    font-weight: 500;
+    letter-spacing: -0.03em;
+    line-height: 1.1;
+    color: var(--text-primary);
+  }
+
+  h1 {
+    font-size: clamp(2.5rem, 5vw, 4rem);
+  }
+
+  h2 {
+    font-size: clamp(1.75rem, 3vw, 2.5rem);
+  }
+
+  h3 {
+    font-size: clamp(1.25rem, 2vw, 1.5rem);
+  }
+
+  p {
+    line-height: 1.65;
+    color: var(--text-secondary);
+  }
+}
+
+@layer components {
+  /* Double-Bezel Card Architecture */
+  .card-bezel {
+    @apply p-[2px] rounded-[1.25rem] bg-stone-200/50;
+  }
+
+  .card-core {
+    @apply w-full h-full rounded-[calc(1.25rem-2px)] bg-white;
+    box-shadow:
+      inset 0 1px 1px rgba(255, 255, 255, 0.8),
+      0 1px 2px rgba(0, 0, 0, 0.04);
+  }
+
+  /* Liquid Glass Effect */
+  .liquid-glass {
+    @apply bg-white/80 backdrop-blur-xl;
+    border: 1px solid rgba(255, 255, 255, 0.6);
+    box-shadow:
+      inset 0 1px 0 rgba(255, 255, 255, 0.4),
+      0 4px 20px -4px rgba(0, 0, 0, 0.08);
+  }
+
+  /* Eyebrow Tag */
+  .eyebrow {
+    @apply inline-flex items-center px-3 py-1 rounded-full text-[11px] font-medium uppercase tracking-[0.15em];
+    background: var(--accent-light);
+    color: var(--accent);
+  }
+
+  /* Ambient Gradient Orb */
+  .ambient-orb {
+    @apply fixed pointer-events-none;
+    filter: blur(120px);
+    opacity: 0.4;
+    z-index: -1;
+  }
+}
+
+@layer utilities {
+  /* Stagger Animation Delays */
+  .stagger-1 { animation-delay: calc(var(--index, 0) * 80ms); }
+  .stagger-2 { animation-delay: calc(var(--index, 1) * 80ms); }
+  .stagger-3 { animation-delay: calc(var(--index, 2) * 80ms); }
+  .stagger-4 { animation-delay: calc(var(--index, 3) * 80ms); }
+  .stagger-5 { animation-delay: calc(var(--index, 4) * 80ms); }
+
+  /* Smooth transitions */
+  .transition-spring {
+    transition: all 0.5s var(--ease-spring);
+  }
+
+  .transition-expo {
+    transition: all 0.4s var(--ease-out-expo);
+  }
+
+  /* Text balance for better typography */
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  /* Hide scrollbar but keep functionality */
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+/* Reduced motion preference */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

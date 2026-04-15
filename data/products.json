@@ -1,0 +1,650 @@
+{
+  "generatedAt": "2026-02-27T14:27:50.649Z",
+  "sourceUrls": [
+    "https://ozonatedel.co.za/product-category/uncategorized/page/2/",
+    "https://ozonatedel.co.za/product-category/baby/",
+    "https://ozonatedel.co.za/product-category/body/",
+    "https://ozonatedel.co.za/product-category/home-care/",
+    "https://ozonatedel.co.za/product-category/skin-care/",
+    "https://ozonatedel.co.za/product-category/supplements/"
+  ],
+  "count": 53,
+  "products": [
+    {
+      "id": "baby-2-in-1-body-wash-shampoo",
+      "name": "2 in 1 Body Wash & Shampoo",
+      "slug": "2-in-1-body-wash-shampoo",
+      "price": "R132.00",
+      "category": "Baby",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/2020/12/Baby-2-in-1_new-300x300.jpg"
+      ],
+      "shortDescription": "Baby wellness product from Ozonated.",
+      "description": "Contains almond oil & lavander 100ml"
+    },
+    {
+      "id": "baby-body-oil",
+      "name": "Body Oil",
+      "slug": "body-oil",
+      "price": "R200.00",
+      "category": "Baby",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/2020/12/Baby-Body-Oil_new-300x300.jpg"
+      ],
+      "shortDescription": "Baby wellness product from Ozonated.",
+      "description": "Sooths skin & muscles 100ml"
+    },
+    {
+      "id": "baby-bum-balm",
+      "name": "Bum Balm",
+      "slug": "bum-balm",
+      "price": "R94.00",
+      "category": "Baby",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/2020/12/Baby-Bum-Balm_new-300x300.jpg"
+      ],
+      "shortDescription": "Baby wellness product from Ozonated.",
+      "description": "Sooths & protects baby’s bum 50ml"
+    },
+    {
+      "id": "body-black-liposculpt-sponge",
+      "name": "Black Liposculpt Sponge",
+      "slug": "black-liposculpt-sponge",
+      "price": "R70.00",
+      "category": "Body",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/2020/12/IMG_-7-300x300.jpg"
+      ],
+      "shortDescription": "Body wellness product from Ozonated.",
+      "description": "Body wellness product from Ozonated."
+    },
+    {
+      "id": "body-charcoal-toothpaste",
+      "name": "Charcoal Toothpaste",
+      "slug": "charcoal-toothpaste",
+      "price": "R65.00",
+      "category": "Body",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/2020/12/124370979_100513168545898_8857601082931937747_n-300x300.jpg"
+      ],
+      "shortDescription": "Body wellness product from Ozonated.",
+      "description": "Whitens, Brightens&remineralizes teeth 50ml"
+    },
+    {
+      "id": "body-eczema-oil",
+      "name": "Eczema Oil",
+      "slug": "eczema-oil",
+      "price": "R145.00",
+      "category": "Body",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/2020/12/Eczema-Oil-300x300.jpg"
+      ],
+      "shortDescription": "Body wellness product from Ozonated.",
+      "description": "Improves skin hydration 50ml"
+    },
+    {
+      "id": "body-hand-lotion",
+      "name": "Hand Lotion",
+      "slug": "hand-lotion",
+      "price": "R65.00",
+      "category": "Body",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/2020/12/Hand-Lotion_new-300x300.jpg"
+      ],
+      "shortDescription": "Body wellness product from Ozonated.",
+      "description": "Nourishing hand lotion with spf10 50ml"
+    },
+    {
+      "id": "body-hand-sanitizer",
+      "name": "Hand Sanitizer",
+      "slug": "hand-sanitizer",
+      "price": "R45.00",
+      "category": "Body",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/2020/12/PHOTO-2020-11-17-16-49-17-6-300x300.jpg"
+      ],
+      "shortDescription": "Body wellness product from Ozonated.",
+      "description": "Anitbacterial, antifungal & immune boosting 50ml"
+    },
+    {
+      "id": "body-heath-soap",
+      "name": "Heath Soap",
+      "slug": "heath-soap",
+      "price": "R50.00",
+      "category": "Body",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/2020/12/IMG_-24-300x300.jpg"
+      ],
+      "shortDescription": "Body wellness product from Ozonated.",
+      "description": "Body wellness product from Ozonated."
+    },
+    {
+      "id": "body-lip-balm",
+      "name": "Lip Balm",
+      "slug": "lip-balm",
+      "price": "R40.00",
+      "category": "Body",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/2020/12/IMG_-37-300x300.jpg"
+      ],
+      "shortDescription": "Body wellness product from Ozonated.",
+      "description": "Moisturizing balm with Vanilla & Cinamon Extract 15g"
+    },
+    {
+      "id": "body-liposculpt-sponge",
+      "name": "Liposculpt Sponge",
+      "slug": "liposculpt-sponge",
+      "price": "R65.00",
+      "category": "Body",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/2020/12/IMG_-35-300x300.jpg"
+      ],
+      "shortDescription": "Body wellness product from Ozonated.",
+      "description": "Body wellness product from Ozonated."
+    },
+    {
+      "id": "body-magic-face-cloths",
+      "name": "Magic Face Cloths",
+      "slug": "magic-face-cloths",
+      "price": "R130.00",
+      "category": "Body",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/2020/12/IMG_-2-300x300.jpg"
+      ],
+      "shortDescription": "Body wellness product from Ozonated.",
+      "description": "Washable makeup removing face cloth"
+    },
+    {
+      "id": "body-muscle-soak",
+      "name": "Muscle Soak",
+      "slug": "muscle-soak",
+      "price": "R95.00",
+      "category": "Body",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/2020/12/Muscle-Soak-300x300.jpg"
+      ],
+      "shortDescription": "Body wellness product from Ozonated.",
+      "description": "Helps releive tired, sore muscles. Helps eliminate lactic acid build up"
+    },
+    {
+      "id": "body-nousishing-body-oil",
+      "name": "Nousishing Body Oil",
+      "slug": "nousishing-body-oil",
+      "price": "R240.00",
+      "category": "Body",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/2020/12/Nourishing-Body-Oil_new-300x300.jpg"
+      ],
+      "shortDescription": "Body wellness product from Ozonated.",
+      "description": "Nourishes dry & dehydrated skin. Can also be used on face for extr nourishment 100ml"
+    },
+    {
+      "id": "body-organic-deoderant",
+      "name": "Organic deoderant",
+      "slug": "organic-deoderant",
+      "price": "R70.00",
+      "category": "Body",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/2020/12/Deo-Rose-Vanilla_new-300x300.jpg"
+      ],
+      "shortDescription": "Body wellness product from Ozonated.",
+      "description": "Rose & Vanilla 15g"
+    },
+    {
+      "id": "home-care-cleaning-bombs",
+      "name": "Cleaning Bombs",
+      "slug": "cleaning-bombs",
+      "price": "R45.00",
+      "category": "Home Care",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/2020/12/Cleaning-Bombs-300x300.jpg"
+      ],
+      "shortDescription": "Home Care wellness product from Ozonated.",
+      "description": "Home Care wellness product from Ozonated."
+    },
+    {
+      "id": "home-care-dishwasher-tabs",
+      "name": "Dishwasher Tabs",
+      "slug": "dishwasher-tabs",
+      "price": "R120.00",
+      "category": "Home Care",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/2020/12/Dishwasher-Tabs-300x300.jpg"
+      ],
+      "shortDescription": "Home Care wellness product from Ozonated.",
+      "description": "Home Care wellness product from Ozonated."
+    },
+    {
+      "id": "home-care-floor-cleaner",
+      "name": "Floor Cleaner",
+      "slug": "floor-cleaner",
+      "price": "R75.00",
+      "category": "Home Care",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/2020/12/Floor-Cleaner-300x300.jpg"
+      ],
+      "shortDescription": "Home Care wellness product from Ozonated.",
+      "description": "Home Care wellness product from Ozonated."
+    },
+    {
+      "id": "home-care-laundry-liquid",
+      "name": "Laundry Liquid",
+      "slug": "laundry-liquid",
+      "price": "R75.00",
+      "category": "Home Care",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/2020/12/Laundry-Liquid-300x300.jpg"
+      ],
+      "shortDescription": "Home Care wellness product from Ozonated.",
+      "description": "Home Care wellness product from Ozonated."
+    },
+    {
+      "id": "home-care-multi-purpose-surface-cleaner",
+      "name": "Multi Purpose Surface Cleaner",
+      "slug": "multi-purpose-surface-cleaner",
+      "price": "R75.00",
+      "category": "Home Care",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/2020/12/Multi-Purpose-Surface-Cleaner-Cloth-300x300.jpg"
+      ],
+      "shortDescription": "Home Care wellness product from Ozonated.",
+      "description": "Surface Vleaner"
+    },
+    {
+      "id": "home-care-purifying-spray",
+      "name": "Purifying Spray",
+      "slug": "purifying-spray",
+      "price": "R395.00",
+      "category": "Home Care",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/2020/12/Purifying-Spray-300x300.jpg"
+      ],
+      "shortDescription": "Home Care wellness product from Ozonated.",
+      "description": "Home Care wellness product from Ozonated."
+    },
+    {
+      "id": "home-care-surface-wipe",
+      "name": "Surface wipe",
+      "slug": "surface-wipe",
+      "price": "R30.00",
+      "category": "Home Care",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/2020/12/Multi-Purpose-Surface-Cloth-300x300.jpg"
+      ],
+      "shortDescription": "Home Care wellness product from Ozonated.",
+      "description": "Home Care wellness product from Ozonated."
+    },
+    {
+      "id": "skin-care-cleaner-dry-sensitive-skin",
+      "name": "Cleaner Dry & Sensitive Skin",
+      "slug": "cleaner-dry-sensitive-skin",
+      "price": "R155.00",
+      "category": "Skin Care",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/2020/12/Cleanser-Dry-Sens_new-300x300.jpg"
+      ],
+      "shortDescription": "Skin Care wellness product from Ozonated.",
+      "description": "Gentle Organic Cleanser Leaves your skin Hydrated 100ml"
+    },
+    {
+      "id": "skin-care-dermoplaner",
+      "name": "Dermoplaner",
+      "slug": "dermoplaner",
+      "price": "R200.00",
+      "category": "Skin Care",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/2020/12/Dermaplaner_new-300x300.jpg"
+      ],
+      "shortDescription": "Skin Care wellness product from Ozonated.",
+      "description": "Removes dead skin cells and peach fuzz"
+    },
+    {
+      "id": "skin-care-dermoroller-body",
+      "name": "Dermoroller Body",
+      "slug": "dermoroller-body",
+      "price": "R660.00",
+      "category": "Skin Care",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/2020/12/Dermaroller-Body_new-300x300.jpg"
+      ],
+      "shortDescription": "Skin Care wellness product from Ozonated.",
+      "description": "Provides 100% Product penatration"
+    },
+    {
+      "id": "skin-care-dermoroller-face",
+      "name": "Dermoroller Face",
+      "slug": "dermoroller-face",
+      "price": "R400.00",
+      "category": "Skin Care",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/2020/12/Dermaroller-Face_new-300x300.jpg"
+      ],
+      "shortDescription": "Skin Care wellness product from Ozonated.",
+      "description": "Provides 100% Product penatration"
+    },
+    {
+      "id": "skin-care-eye-makeup-remover",
+      "name": "Eye Makeup Remover",
+      "slug": "eye-makeup-remover",
+      "price": "R90.00",
+      "category": "Skin Care",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/2020/12/Eye-Make-up-Remover_new-300x300.jpg"
+      ],
+      "shortDescription": "Skin Care wellness product from Ozonated.",
+      "description": "Easily removes Makeup and lipstick. A great lash treatment aswell"
+    },
+    {
+      "id": "skin-care-face-scrubbies",
+      "name": "Face Scrubbies",
+      "slug": "face-scrubbies",
+      "price": "R50.00",
+      "category": "Skin Care",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/2020/12/facial-scrubbies-300x300.jpg"
+      ],
+      "shortDescription": "Skin Care wellness product from Ozonated.",
+      "description": "Reusable scrubbies made from 100% Cotton 5 per pack"
+    },
+    {
+      "id": "skin-care-facial-rounds",
+      "name": "Facial Rounds",
+      "slug": "facial-rounds",
+      "price": "R40.00",
+      "category": "Skin Care",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/2020/12/Facial-Rounds-300x300.jpg"
+      ],
+      "shortDescription": "Skin Care wellness product from Ozonated.",
+      "description": "Use with eye makeup remover to effortlessly remove makeup 8 rounds"
+    },
+    {
+      "id": "skin-care-glow-nutrition-collagen",
+      "name": "Glow Nutrition Collagen",
+      "slug": "glow-nutrition-collagen",
+      "price": "R400.00",
+      "category": "Skin Care",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/2023/05/Glow-Nutritian-Collagen-300x300.jpg"
+      ],
+      "shortDescription": "300g",
+      "description": "Collagen Tub"
+    },
+    {
+      "id": "skin-care-hydrating-serum",
+      "name": "Hydrating Serum",
+      "slug": "hydrating-serum",
+      "price": "R520.00",
+      "category": "Skin Care",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/2020/12/Hydrating-Serum_new-300x300.jpg"
+      ],
+      "shortDescription": "Skin Care wellness product from Ozonated.",
+      "description": "Rich moisurizer for dry skin, anti aging and blemishes"
+    },
+    {
+      "id": "skin-care-ice-roller",
+      "name": "Ice Roller",
+      "slug": "ice-roller",
+      "price": "R365.00",
+      "category": "Skin Care",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/2020/12/Ice-Roller-300x300.jpg"
+      ],
+      "shortDescription": "Skin Care wellness product from Ozonated.",
+      "description": "Promotes tighter and healthier skin"
+    },
+    {
+      "id": "skin-care-light-bright-serum",
+      "name": "Light & Bright Serum",
+      "slug": "light-bright-serum",
+      "price": "R560.00",
+      "category": "Skin Care",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/2020/12/Light-Bright-Serum_new-300x300.jpg"
+      ],
+      "shortDescription": "Skin Care wellness product from Ozonated.",
+      "description": "Pigmentation, sunspots anti aging 25ml Toner –Dry/ Normal Skin Toner – Combination / Oily Skin"
+    },
+    {
+      "id": "skin-care-luvilab-creami-cleanser-100ml",
+      "name": "Luvilab Creami Cleanser 100ml",
+      "slug": "luvilab-creami-cleanser-100ml",
+      "price": "R190.00",
+      "category": "Skin Care",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/woocommerce-placeholder-300x300.png"
+      ],
+      "shortDescription": "Creami Cleanser All Skin Types 100ml",
+      "description": "Creami Cleanser All Skin Types 100ml"
+    },
+    {
+      "id": "supplements-5s-slimming-capsules",
+      "name": "5S Slimming Capsules",
+      "slug": "5s-slimming-capsules",
+      "price": "R400.00",
+      "category": "Supplements",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/2020/12/IMG_-8-300x300.jpg"
+      ],
+      "shortDescription": "Supplements wellness product from Ozonated.",
+      "description": "Supplements wellness product from Ozonated."
+    },
+    {
+      "id": "supplements-coyne-glutathione",
+      "name": "Coyne Glutathione",
+      "slug": "coyne-glutathione",
+      "price": "R549.00",
+      "category": "Supplements",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/2020/12/Glutathione-Supplement-Biomax-30s-Group-Image-Coyne-Healthcare-Packshot_2000x-300x300.png"
+      ],
+      "shortDescription": "Supplements wellness product from Ozonated.",
+      "description": "Supplements wellness product from Ozonated."
+    },
+    {
+      "id": "supplements-glow-collagen-peptide-sachets",
+      "name": "Glow Collagen Peptide Sachets",
+      "slug": "glow-collagen-peptide-sachets",
+      "price": "R450.00",
+      "category": "Supplements",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/woocommerce-placeholder-300x300.png"
+      ],
+      "shortDescription": "Supplements wellness product from Ozonated.",
+      "description": "Glow Collagen Peptide Sachets 30’s"
+    },
+    {
+      "id": "supplements-nuyu-activated-charcoal-30-caps",
+      "name": "NUYU Activated Charcoal 30 caps",
+      "slug": "nuyu-activated-charcoal-30-caps",
+      "price": "R120.00",
+      "category": "Supplements",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/woocommerce-placeholder-300x300.png"
+      ],
+      "shortDescription": "Supplements wellness product from Ozonated.",
+      "description": "Supplements wellness product from Ozonated."
+    },
+    {
+      "id": "supplements-nuyu-collagen-30-caps",
+      "name": "NUYU Collagen – 30 caps",
+      "slug": "nuyu-collagen-30-caps",
+      "price": "R250.00",
+      "category": "Supplements",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/2020/12/IMG_-10-300x300.jpg"
+      ],
+      "shortDescription": "Supplements wellness product from Ozonated.",
+      "description": "Supplements wellness product from Ozonated."
+    },
+    {
+      "id": "supplements-nuyu-hydrogen-bottles",
+      "name": "NUYU Hydrogen Bottles",
+      "slug": "nuyu-hydrogen-bottles",
+      "price": "R2,300.00",
+      "category": "Supplements",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/2020/12/IMG_-1-300x300.jpg"
+      ],
+      "shortDescription": "Supplements wellness product from Ozonated.",
+      "description": "Supplements wellness product from Ozonated."
+    },
+    {
+      "id": "supplements-nuyu-maca-root-60-caps",
+      "name": "NUYU Maca Root 60 caps",
+      "slug": "nuyu-maca-root-60-caps",
+      "price": "R120.00",
+      "category": "Supplements",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/2020/12/IMG_-17-300x300.jpg"
+      ],
+      "shortDescription": "Supplements wellness product from Ozonated.",
+      "description": "Supplements wellness product from Ozonated."
+    },
+    {
+      "id": "supplements-nuyu-milk-thistle-30-caps",
+      "name": "NUYU Milk Thistle 30 caps",
+      "slug": "nuyu-milk-thistle-30-caps",
+      "price": "R150.00",
+      "category": "Supplements",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/2020/12/IMG_-19-300x300.jpg"
+      ],
+      "shortDescription": "Supplements wellness product from Ozonated.",
+      "description": "Supplements wellness product from Ozonated."
+    },
+    {
+      "id": "supplements-nuyu-moringa-60-caps",
+      "name": "NUYU Moringa 60 caps",
+      "slug": "nuyu-moringa-60-caps",
+      "price": "R120.00",
+      "category": "Supplements",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/woocommerce-placeholder-300x300.png"
+      ],
+      "shortDescription": "Supplements wellness product from Ozonated.",
+      "description": "Supplements wellness product from Ozonated."
+    },
+    {
+      "id": "supplements-nuyu-ozone-gel",
+      "name": "NUYU Ozone Gel",
+      "slug": "nuyu-ozone-gel",
+      "price": "R150.00",
+      "category": "Supplements",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/2020/12/IMG_-22-1-300x300.jpg"
+      ],
+      "shortDescription": "Supplements wellness product from Ozonated.",
+      "description": "Supplements wellness product from Ozonated."
+    },
+    {
+      "id": "supplements-nuyu-ozone-soap",
+      "name": "NUYU Ozone Soap",
+      "slug": "nuyu-ozone-soap",
+      "price": "R65.00",
+      "category": "Supplements",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/2020/12/IMG_-25-300x300.jpg"
+      ],
+      "shortDescription": "Supplements wellness product from Ozonated.",
+      "description": "Supplements wellness product from Ozonated."
+    },
+    {
+      "id": "supplements-nuyu-sutherlandia-60-caps",
+      "name": "NUYU Sutherlandia 60 caps",
+      "slug": "nuyu-sutherlandia-60-caps",
+      "price": "R120.00",
+      "category": "Supplements",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/2020/12/IMG_-21-300x300.jpg"
+      ],
+      "shortDescription": "Supplements wellness product from Ozonated.",
+      "description": "Supplements wellness product from Ozonated."
+    },
+    {
+      "id": "uncategorized-i-believe-in-ocean-necklace",
+      "name": "I believe in Ocean Necklace",
+      "slug": "i-believe-in-ocean-necklace",
+      "price": "R180.00",
+      "category": "Uncategorized",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/woocommerce-placeholder-300x300.png"
+      ],
+      "shortDescription": "Uncategorized wellness product from Ozonated.",
+      "description": "I believe in Ocean Necklace Stainless Steel"
+    },
+    {
+      "id": "uncategorized-menopause-bracelet",
+      "name": "Menopause Bracelet",
+      "slug": "menopause-bracelet",
+      "price": "R240.00",
+      "category": "Uncategorized",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/woocommerce-placeholder-300x300.png"
+      ],
+      "shortDescription": "Menopause Bracelet Stainless Steel",
+      "description": "Menopause Bracelet Stainless Steel"
+    },
+    {
+      "id": "uncategorized-the-beach-is-calling-me-necklace",
+      "name": "The Beach is Calling Me Necklace",
+      "slug": "the-beach-is-calling-me-necklace",
+      "price": "R220.00",
+      "category": "Uncategorized",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/woocommerce-placeholder-300x300.png"
+      ],
+      "shortDescription": "Stunning Necklace",
+      "description": "Pearl Necklace"
+    },
+    {
+      "id": "uncategorized-the-sea-chain",
+      "name": "The Sea Chain",
+      "slug": "the-sea-chain",
+      "price": "R220.00",
+      "category": "Uncategorized",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/woocommerce-placeholder-300x300.png"
+      ],
+      "shortDescription": "Sunning Pearl Necklace",
+      "description": "The Sea Chain"
+    },
+    {
+      "id": "uncategorized-the-sea-stainless-steel-necklace",
+      "name": "The Sea Stainless Steel Necklace",
+      "slug": "the-sea-stainless-steel-necklace",
+      "price": "R180.00",
+      "category": "Uncategorized",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/woocommerce-placeholder-300x300.png"
+      ],
+      "shortDescription": "The Sea Stainless Steel Necklace",
+      "description": "The Sea Stainless Steel Necklace"
+    },
+    {
+      "id": "uncategorized-trim-fx-60s",
+      "name": "Trim FX 60’s",
+      "slug": "trim-fx-60s",
+      "price": "R345.00",
+      "category": "Uncategorized",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/woocommerce-placeholder-300x300.png"
+      ],
+      "shortDescription": "Uncategorized wellness product from Ozonated.",
+      "description": "60’s Fat Burner"
+    },
+    {
+      "id": "uncategorized-turquoise-bracelet",
+      "name": "Turquoise Bracelet",
+      "slug": "turquoise-bracelet",
+      "price": "R160.00",
+      "category": "Uncategorized",
+      "images": [
+        "https://ozonatedel.co.za/wp-content/uploads/woocommerce-placeholder-300x300.png"
+      ],
+      "shortDescription": "Turquoise Bracelet",
+      "description": "Turquoise Bracelet"
+    }
+  ]
+}

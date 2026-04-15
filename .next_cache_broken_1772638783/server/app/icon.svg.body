@@ -1,0 +1,13 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512' fill='none'>
+  <rect width='512' height='512' rx='0' fill='#25BCE2'/>
+  <path d='M58 307c70-23 163-20 236 35' stroke='#fff' stroke-width='16' stroke-linecap='round'/>
+  <path d='M112 330c56-12 122 5 154 44' stroke='#fff' stroke-width='12' stroke-linecap='round'/>
+  <path d='M314 351c44-36 121-43 168-13' stroke='#9EA0A3' stroke-width='16' stroke-linecap='round'/>
+  <path d='M121 228c22-18 46-28 63-29 8 0 10 6 12 12 4 14 10 30 16 43 10 21 24 39 40 52 8 6 17 12 17 23v44' stroke='#fff' stroke-width='16' stroke-linecap='round' stroke-linejoin='round'/>
+  <path d='M295 273c-5-34 5-70 30-103 4-6 9-12 14-17 5-4 9-4 13 2 16 23 35 39 60 49' stroke='#9EA0A3' stroke-width='16' stroke-linecap='round' stroke-linejoin='round'/>
+  <path d='M262 133c30-20 64-31 95-31 23 0 43 7 70 20' stroke='#9EA0A3' stroke-width='14' stroke-linecap='round'/>
+  <path d='M189 255c-13-20-16-40-9-61 6-19 22-36 48-50' stroke='#fff' stroke-width='14' stroke-linecap='round'/>
+  <circle cx='121' cy='124' r='22' fill='#fff'/>
+  <circle cx='347' cy='119' r='22' fill='#9EA0A3'/>
+  <path d='M218 354h36v36h36v36h-36v36h-36v-36h-36v-36h36z' fill='#fff'/>
+</svg>
