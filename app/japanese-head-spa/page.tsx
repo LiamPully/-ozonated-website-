@@ -155,17 +155,17 @@ export default function JapaneseHeadSpaPage() {
           >
             {[
               {
-                src: "/assets/photos/head-spa/head-spa-treatment-1.jpg",
+                src: "/assets/photos/head-spa/new-treatment-1.jpeg",
                 alt: "Japanese Head Spa Scalp Treatment",
                 span: true
               },
               {
-                src: "/assets/photos/head-spa/head-spa-treatment-2.jpg",
+                src: "/assets/photos/head-spa/new-treatment-2.jpeg",
                 alt: "Relaxing Head Massage Therapy",
                 span: false
               },
               {
-                src: "/assets/photos/head-spa/head-spa-treatment-3.jpg",
+                src: "/assets/photos/head-spa/new-treatment-3.jpeg",
                 alt: "Premium Head Spa Experience",
                 span: false
               },

@@ -28,7 +28,12 @@
       "Bash(zip:*)",
       "Bash(git init:*)",
       "Bash(git add:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(mv \"WhatsApp Image 2026-04-14 at 16.09.15.jpeg\" \"new-treatment-1.jpeg\")",
+      "Bash(mv \"WhatsApp Image 2026-04-14 at 16.09.15 \\(1\\).jpeg\" \"new-treatment-2.jpeg\")",
+      "Bash(mv \"WhatsApp Image 2026-04-14 at 16.09.15 \\(2\\).jpeg\" \"new-treatment-3.jpeg\")",
+      "Bash(mv \"WhatsApp Image 2026-04-14 at 16.09.16.jpeg\" \"new-treatment-4.jpeg\")",
+      "Bash(mv \"WhatsApp Image 2026-04-14 at 16.09.26.jpeg\" \"new-treatment-5.jpeg\")"
     ]
   }
 }
